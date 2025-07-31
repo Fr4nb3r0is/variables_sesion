@@ -3,7 +3,7 @@ este mismo se subdividio en carpetas para un mayor uso. Ademas se cambio nombre 
 para formalizar una entrada mas comoda del mismo.
 
 
-
+#
 
 
 # Variables de Sesión en PHP - Ejemplo Educativo
